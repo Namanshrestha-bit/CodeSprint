@@ -1,2 +1,2 @@
 # CodeSprint
-codesprint website
+codesprint website for RGIPT.
